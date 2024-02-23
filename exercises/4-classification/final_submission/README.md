@@ -1,3 +1,5 @@
+## By Danny Chu, Hyelee Kim, and Morgan O'Connor
+
 ## Classify all symbols 
 Here, the outcome is the categorical variables without orders (a total of 62 outcomes). 
 Therefore, we need to generate a model that predicts different values using the image data.
